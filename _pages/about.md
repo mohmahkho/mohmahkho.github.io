@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 ### Hello!
-This page is under construction! But welcome anyway :)
+I'm a second-year PhD student at Simon Fraser University where I'm fortunate to be advised by Igor Shinkar. My research interests broadly span theoretical computer science, and more closely I am interested in complexity theory, pseudorandomness, interactive proofs, and learning theory.
