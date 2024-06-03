@@ -21,7 +21,7 @@ repository               : "mohmahkho/mohmahkho.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Mohammad Mahdi Khodabandeh"
   pronouns         : # example: "she/her"  
   bio              : "Student of theory"
