@@ -1,6 +1,6 @@
 # al-folio
-Visit [al-folio github page](https://github.com/alshedivat/al-folio) for extra information.
 
+Visit [al-folio github page](https://github.com/alshedivat/al-folio) for extra information.
 
 # License
 
