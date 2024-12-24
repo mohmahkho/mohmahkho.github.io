@@ -62,4 +62,4 @@
 - title: Technical Stuff
   type: list
   contents:
-    - C, C++, Python, Java, Bash, CGAL, Numpy, Boost, OpenGL
+    - C, <b>C++,</b> Python, Java, Bash, CGAL, Boost, OpenGL
