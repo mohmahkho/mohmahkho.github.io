@@ -12,7 +12,7 @@ profile:
     <i><small>Picture in BC, Canada</small></i>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+publications: true # includes the full publications list on the main page
 social: true # includes social icons at the bottom of the page
 ---
 

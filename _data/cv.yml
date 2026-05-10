@@ -11,7 +11,7 @@
 - title: Reserach Interests
   type: list
   contents:
-    - Complexity Theory, Pseudorandomness, Explicit Constructions, Learning Theory, Interactive Proofs
+    - Complexity Theory, Pseudorandomness, Combinatorics, Learning Theory, Interactive Proofs
 
 - title: Publications
   type: time_table
@@ -23,6 +23,9 @@
 - title: Academic and Community Activities
   type: time_table
   contents:
+    - year: Summer 2025
+      items:
+        - Instructor of CMPT 210 Probability and Computing (SFU)
     - year: 2024
       items:
         - TA for CMPT 789 Applied Cryptography
@@ -49,17 +52,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023-24
+    - year: 2025
       items:
-        - PhD Research Scholarship
+        - Kaltenegger Family Grad School Scholarship
+    - year: 2023-25
+      items:
+        - PhD Research Scholarship from Simon Fraser University (6x)
+    - year: 2022-25
+      items:
+        - CS Graduate Fellowship from Simon Fraser University (4x)
     - year: 2020
       items:
         - ICPC Tehran Site <b>4th</b> Place
     - year: 2019
       items:
         - ICPC Tehran Site <b>5th</b> Place (<b>Silver Medal</b>)
-
-- title: Technical Stuff
-  type: list
-  contents:
-    - C, <b>C++,</b> Python, Java, Bash, CGAL, Boost, OpenGL
