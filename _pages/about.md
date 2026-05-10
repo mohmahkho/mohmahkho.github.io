@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 I'm a PhD candidate at Simon Fraser University (SFU) in theoretical computer science, where I'm extremely fortunate to be advised by [Igor Shinkar](https://www.cs.sfu.ca/~ishinkar/). Prior to SFU, I obtained my BSc at K. N. Toosi University of Technology (KNTU) in computer engineering.
 
-I am interested in various areas of theoretical computer science, such as pseudorandomness, analysis of Boolean functions, interactive proofs, and learning theory.
+I am broadly interested in theoretical computer science and combinatorics. Recently, I have focused on problems involving finite field polynomials.
