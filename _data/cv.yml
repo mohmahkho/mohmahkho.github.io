@@ -16,6 +16,9 @@
 - title: Publications
   type: time_table
   contents:
+    - year: FOCS 2026
+      items:
+        - On Sampling Lower Bounds for Polynomials
     - year: STOC 2024
       items:
         - On the Power of Interactive Proofs for Learning
@@ -23,6 +26,9 @@
 - title: Academic and Community Activities
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Subreviewed for STOC 26, FOCS 26, and RANDOM 26
     - year: Summer 2025
       items:
         - Instructor of CMPT 210 Probability and Computing (SFU)
